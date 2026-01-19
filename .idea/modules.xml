@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Data-Structures-And-Algorithms/Data-Structures-And-Algorithms.iml" filepath="$PROJECT_DIR$/Data-Structures-And-Algorithms/Data-Structures-And-Algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/Intro-To-Java/Intro-To-Java.iml" filepath="$PROJECT_DIR$/Intro-To-Java/Intro-To-Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/airtribe-java.iml" filepath="$PROJECT_DIR$/.idea/airtribe-java.iml" />
     </modules>
